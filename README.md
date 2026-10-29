@@ -34,7 +34,9 @@ Zambia-based. Open to remote collaboration. Drawn to useful ideas and the engine
 
 <p align="center"><a href="mailto:amoskays1@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-%E2%86%97-FF7300?style=for-the-badge&labelColor=292929" alt="Get In Touch" /></a> <a href="https://www.linkedin.com/in/amos-kanyanta/"><img src="https://img.shields.io/badge/LinkedIn-%E2%86%97-FF7300?style=for-the-badge&labelColor=FF7300" alt="LinkedIn" /></a> <a href="https://www.facebook.com/share/1Mkz7aMmdd/?mibextid=wwXIfr"><img src="https://img.shields.io/badge/Facebook-%E2%86%97-FF7300?style=for-the-badge&labelColor=FF7300&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="https://x.com/Amos_kays"><img src="https://img.shields.io/badge/X-%E2%86%97-FF7300?style=for-the-badge&labelColor=FF7300&logo=x&logoColor=white" alt="X" /></a></p>
 
-<p align="center"><b>EXPLORE MY WORK</b><br /><a href="#introduction"><img src="https://img.shields.io/badge/ABOUT-The%20person%20behind%20the%20code-1a1a1a?style=for-the-badge&labelColor=FF7300" alt="About" /></a><br /><a href="#toolkit"><img src="https://img.shields.io/badge/PORTFOLIO-Products%20%26%20engineering-1a1a1a?style=for-the-badge&labelColor=FF7300" alt="Portfolio" /></a><br /><a href="#activity"><img src="https://img.shields.io/badge/AI%20%2F%20ML-Research%20%26%20experiments-1a1a1a?style=for-the-badge&labelColor=FF7300" alt="AI / ML" /></a></p>
+<p align="center"><b>EXPLORE MY WORK</b></p>
+
+<p align="center"><a href="#introduction"><img src="assets/footer/btn-about.png" width="280" alt="About — the person behind the code" /></a> <a href="#toolkit"><img src="assets/footer/btn-portfolio.png" width="280" alt="Portfolio — products and engineering" /></a> <a href="#activity"><img src="assets/footer/btn-aiml.png" width="280" alt="AI / ML — research and experiments" /></a></p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer/footer-bottom-dark.png" /><img src="assets/footer/footer-bottom-light.png" width="900" alt="© Amos Kanyanta 2026. Created by Amos Kanyanta, with signature." /></picture></p>
 
